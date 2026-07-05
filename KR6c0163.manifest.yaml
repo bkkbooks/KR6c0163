@@ -21,11 +21,11 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6c0163_000.yaml, hash: 'sha256:4846d301c5b2753a6215d860e5eaa0064f80cc64c83dfa5776a3788bbab55bd2'}
-  - {seq: 1, filename: KR6c0163_001.yaml, hash: 'sha256:13d1c0b4777e26e81817eb3fb61ebb93f4f058362d1d1ffcae24004aa0488808'}
+  - {seq: 0, filename: KR6c0163_000.yaml, hash: 'sha256:d170869ea323bf9d857d1bb641df85cbb2047992f04da6b775fcef2201a60236'}
+  - {seq: 1, filename: KR6c0163_001.yaml, hash: 'sha256:b7bfc27e927f5062f93a5968713875fe88714d16770f18b395d45e510ea984bb'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6c0163_000.markers.yaml, hash: 'sha256:ff72c2d2bb980f6013d8e78f284a11266e2ade30b78b348778cfc63dfe77323f'}
-  - {seq: 1, role: markers, filename: assets/KR6c0163_001.markers.yaml, hash: 'sha256:1e0e32a0d46808bece4b8b15a1e32a80b665295054e649fe605d2ed3448b92eb'}
+  - {seq: 0, role: markers, filename: assets/KR6c0163_000.markers.yaml, hash: 'sha256:be44cce4b5db751ccfab84710abd6cf4b1c290bca2ec11cd2a9b17eec8739b6a'}
+  - {seq: 1, role: markers, filename: assets/KR6c0163_001.markers.yaml, hash: 'sha256:74ce5c50f85318e81252fca0900aa5e19b485106381846104db6e5ca832dde63'}
 table_of_contents:
 - ref:
     seq: 0
@@ -77,7 +77,4 @@ table_of_contents:
   label: No. 544-C 自書心經釋略卷後
   type: mulu
   level: 1
-hash: sha256:d74c0784dd7167c6b173d091d1b6803276fdc284bd14f50028e6e51a0da9c648
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:f0752d1a9ef71280c913432cc0ee094119f203b02290a77f75595e402d12a9b8
