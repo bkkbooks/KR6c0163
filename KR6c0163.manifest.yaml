@@ -21,17 +21,17 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6c0163_000.yaml, hash: 'sha256:4846d301c5b2753a6215d860e5eaa0064f80cc64c83dfa5776a3788bbab55bd2'}
+  - {seq: 0, filename: KR6c0163_000.yaml, hash: 'sha256:34f55056954b2aaabe6e4950efca438947c0f388f9f2884fb4acf465e0338b6d'}
   - {seq: 1, filename: KR6c0163_001.yaml, hash: 'sha256:e126e5aa605e1a0b1d5ff4226244d5ad03a1594b1670d478f91b12efd3335753'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6c0163_000.markers.yaml, hash: 'sha256:06deaee632213675e7252799f6080b51e7a29b867c2a64180c0f8648d8ae8d89'}
+  - {seq: 0, role: markers, filename: assets/KR6c0163_000.markers.yaml, hash: 'sha256:8e84746f0a27c66f25f0db8ae1bd76ecf338b6650b00486d4d043b66c810dd0a'}
   - {seq: 1, role: markers, filename: assets/KR6c0163_001.markers.yaml, hash: 'sha256:f34c74434d4632d2e46240e8364a1635116ea01170277fb6f653d45ae7f1bc3b'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6c0163_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 544-A 林子心經釋略槩論總序
@@ -41,7 +41,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0163_X_000-mulu-2
     span:
-    - front
+    - body
     - 372
     - 372
   label: No. 544-B 附心經釋論就正小柬
@@ -51,7 +51,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0163_X_000-mulu-3
     span:
-    - front
+    - body
     - 574
     - 574
   label: 心經釋略
@@ -77,7 +77,7 @@ table_of_contents:
   label: No. 544-C 自書心經釋略卷後
   type: mulu
   level: 1
-hash: sha256:52a026f9a28d604b5d955ca7cfabf91868bfc58c068de8db221c359c729d34b4
+hash: sha256:14b42af19662c69b9d84873574a9ef2fa829f06cc558baae76ed0841a54248db
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
